@@ -1,5 +1,5 @@
 # MCDropout-Novo-Dominio-Concrete
-Esta é uma aplicação do método de incerteza em redes neurais proposto por Yarin Gal. O Dataset escolhido foi O  Concrete Compressive Strength Data Set (http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength retirado do UCL Machine Learn Repository. A variável predita escolhida foi a "Concrete compressive strength"
+Esta é uma aplicação do método de incerteza em redes neurais proposto por Yarin Gal. O Dataset escolhido foi O  Concrete Compressive Strength Data Set (http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength) retirado do UCL Machine Learn Repository. A variável predita escolhida foi a "Concrete compressive strength"
 Esta é uma aplicação do método de incerteza em redes neurais proposto por Yarin Gal. O Dataset escolhido foi O 
 Concrete Compressive Strength Data Set (http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength retirado do UCL Machine Learn Repository. A variável predita escolhida foi a "Concrete compressive strength(MPa, megapascals" e todas as demais foram consideradas como variáveis preditoras. 
 
